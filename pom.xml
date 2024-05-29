@@ -118,7 +118,7 @@
                         <configuration>
                             <artifactSet>
                                 <includes>
-                                    <include>io.github:payoshq</include>
+                                    <include>${project.basedir}/libs/payos.jar</include>
                                 </includes>
                             </artifactSet>
                         </configuration>
